@@ -5,6 +5,7 @@ import './plugins/fontawesome'
 import './plugins/bootstrap-vue'
 import App from './App.vue'
 import router from './router'
+import './assets/global.css';
 
 Vue.config.productionTip = false
 

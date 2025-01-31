@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #f4f4f4;
+  }
+  
+  h1, h2 {
+    font-weight: bold;
+  }
+  
+  @media (max-width: 768px) {
+    .home {
+      padding: 20px;
+    }
+  
+    h1 {
+      font-size: 1.8rem;
+    }
+  
+    .b-card {
+      font-size: 0.9rem;
+    }
+  }
+  

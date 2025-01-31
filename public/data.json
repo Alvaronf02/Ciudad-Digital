@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "tipo": "Discapacidad Visual",
+      "barrera": "Falta de texto alternativo en imágenes",
+      "impacto": "Dificulta la comprensión de contenido para usuarios con lectores de pantalla."
+    },
+    {
+      "id": 2,
+      "tipo": "Discapacidad Auditiva",
+      "barrera": "Falta de subtítulos en videos",
+      "impacto": "Los usuarios con discapacidad auditiva no pueden acceder a la información de los videos."
+    },
+    {
+      "id": 3,
+      "tipo": "Discapacidad Motriz",
+      "barrera": "Botones pequeños y difíciles de pulsar",
+      "impacto": "Dificulta la navegación para personas con movilidad reducida."
+    },
+    {
+      "id": 4,
+      "tipo": "Discapacidad Cognitiva",
+      "barrera": "Texto con demasiado tecnicismo",
+      "impacto": "Puede dificultar la comprensión para personas con discapacidad cognitiva."
+    }
+  ]
+  
